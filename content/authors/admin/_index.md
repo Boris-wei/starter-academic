@@ -15,6 +15,11 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Boriswei0823
+  - display:
+      header: false
+    link: https://www.instagram.com/boyi_wei/?r=nametag
+    icon_pack: fab
+    icon: instagram
   - icon: github
     icon_pack: fab
     link: https://github.com/Boris-wei
