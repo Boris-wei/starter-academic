@@ -30,13 +30,16 @@ organizations:
   - name: University of Science and Technology of China
     url: https://www.ustc.edu.cn
 education:
-  courses: []
+  courses:
+    - course: Applied Physics
+      institution: University of Science and Technology of China
+      year: ""
 superuser: true
 highlight_name: false
 title: Boyi Wei
 email: ""
 ---
-I was born in a fomily full of love in Agust,2001. Since then I've always been fascinated by science and technology and wish I could devote myself to these areas.
+I was born in a fomily full of love in Agust, 2001. Since then I've always been fascinated by science and technology and wish I could devote myself to these areas.
 
 I began to study in University of Science and Technology of China since 2019 as an undergraduate student majors in Physical Science. I wish I could apply what I've learned to my life and my career in the future.
 
