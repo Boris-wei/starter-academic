@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: strawberry
 day_night: true
 font: ''
 font_size: L
@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: wby0823@mail.ustc.edu.cn
 phone: 138 6524 7079
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 96 Jinzhai Road
+  city: Hefei
+  region: Anhui
+  postcode: '230026'
+  country: China
+  country_code: CN
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
@@ -41,8 +41,8 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    link: 'https://twitter.com/Boriswei0823'
+  - icon: facebook
     icon_pack: fab
     name: Skype Me
     link: 'skype:echo123?call'
