@@ -1,5 +1,5 @@
 ---
-role: A undergraduate student majors in physics.
+role: An undergraduate student majors in physics.
 avatar_filename: avatar.jpg
 bio: My research interests include Microelectronics and Solid-State Electronics,
   currently I am learning Convolutional Neural Network.
@@ -36,12 +36,8 @@ highlight_name: false
 title: Boyi Wei
 email: ""
 ---
-**2001.8** Born in a family full of love in Hefei, China
+I was born in a fomily full of love in Agust,2001. Since then I've always been fascinated by science and technology and wish I could devote myself to these areas.
 
-**2013.9-2016.6** Studied in Hefei No.50 Junior High School
-
-**2016.9-2019.6** Studied in Hefei No.8 Senior High School
-
-**2019.9-Now** Studying in School of Physical Sciences, University of Science and Technology of China.
+I began to study in University of Science and Technology of China since 2019 as an undergraduate student majors in Physical Science. I wish I could apply what I've learned to my life and my career in the future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
