@@ -10,7 +10,12 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: wby0823@mail.ustc.edu.cn
+  - display:
+      header: false
+    icon_pack: fab
+    icon: facebook
+    link: https://www.facebook.com/profile.php?id=100056823564368
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Boriswei0823
@@ -20,25 +25,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/boyi-wei-b5b93a1b7/
-  - display:
-      header: false
-    icon_pack: fab
-    icon: facebook
-    link: https://www.facebook.com/profile.php?id=100056823564368
 organizations:
   - name: University of Science and Technology of China
     url: https://www.ustc.edu.cn
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 superuser: true
 highlight_name: false
 title: Boyi Wei
