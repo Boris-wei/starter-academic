@@ -5,7 +5,7 @@ headless: true
 weight: 40
 title: Experience
 subtitle: null
-active: false
+active: true
 date_format: Jan 2006
 experience:
   - title: CEO
@@ -34,4 +34,5 @@ design:
   background:
     gradient_start: Student
     gradient_end: University of
+    text_color_light: false
 ---
