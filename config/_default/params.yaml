@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: classic
+theme: "classic"
 day_night: true
 font: ''
 font_size: L
