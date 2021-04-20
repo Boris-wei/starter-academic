@@ -1,7 +1,7 @@
 ---
 role: A undergraduate student from School of Physical Sciences, University of
   Science and Technology of China
-avatar_filename: img_4168.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include Microelectronics and Solid-State Electronics,
   currently I am learning Convolutional Neural Network.
 interests:
