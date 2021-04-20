@@ -2,31 +2,32 @@
 role: A undergraduate student from School of Physical Sciences, University of
   Science and Technology of China
 avatar_filename: img_4168.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Microelectronics and Solid-State Electronics,
+  currently I am learning Convolutional Neural Network.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Microelectronics and Solid-State Electronics
+  - Convolutional Neural Network
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/Boriswei0823
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Boris-wei
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/boyi-wei-b5b93a1b7/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: facebook
+    link: https://www.facebook.com/profile.php?id=100056823564368
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Science and Technology of China
+    url: https://www.ustc.edu.cn
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -43,9 +44,12 @@ highlight_name: false
 title: Boyi Wei
 email: ""
 ---
+**2001.8** Born in a family full of love in Hefei, China
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**2013.9-2016.6** Studied in Hefei No.50 Junior High School
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+**2016.9-2019.6** Studied in Hefei No.8 Senior High School
+
+**2019.9-Now** Studying in School of Physical Sciences, University of Science and Technology of China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
