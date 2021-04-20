@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: wby0823@mail.ustc.edu.cn
-phone: 138 6524 7079
+phone: (+86)138 6524 7079
 address:
   street: 96 Jinzhai Road
   city: Hefei
@@ -40,20 +40,12 @@ appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: @Boriswei0823
     link: 'https://twitter.com/Boriswei0823'
   - icon: facebook
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Boyi Wei
+    link: 'https://www.facebook.com/profile.php?id=100056823564368'
 
 # Site header
 
