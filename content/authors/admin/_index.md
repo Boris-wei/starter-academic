@@ -1,6 +1,5 @@
 ---
-role: A undergraduate student from School of Physical Sciences, University of
-  Science and Technology of China
+role: A undergraduate student majors in physics.
 avatar_filename: avatar.jpg
 bio: My research interests include Microelectronics and Solid-State Electronics,
   currently I am learning Convolutional Neural Network.
@@ -8,9 +7,6 @@ interests:
   - Microelectronics and Solid-State Electronics
   - Convolutional Neural Network
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: wby0823@mail.ustc.edu.cn
   - display:
       header: false
     icon_pack: fab
