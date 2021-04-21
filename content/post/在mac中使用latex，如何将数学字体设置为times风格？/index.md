@@ -11,8 +11,8 @@ tags:
   - LaTeX
 categories: []
 image:
-  filename: zhffo.png
-  focal_point: ""
+  filename: featured.png
+  focal_point: smart
   placement: 2
   preview_only: false
 ---
