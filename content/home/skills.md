@@ -21,8 +21,8 @@ feature:
     name: Photography
 design:
   background:
-    color: "#2d65ba"
-    gradient_start: Running
-    gradient_end: "PB: 5km 21:57; 10km 46:10 "
+    color: rgba(45, 101, 186, 0)
+    gradient_start: ""
+    gradient_end: ""
     text_color_light: false
 ---
