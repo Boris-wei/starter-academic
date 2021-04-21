@@ -13,7 +13,7 @@ categories: []
 image:
   filename: zhffo.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 被这个问题困扰了大半年时间，今天终于弄明白，正好趁热打铁，总结一下。
 
