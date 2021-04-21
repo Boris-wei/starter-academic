@@ -3,14 +3,14 @@ widget: featurette
 widget_id: Skills
 headless: true
 weight: 30
-title: Skills
+title: Skills & Hobbies
 subtitle: null
 active: true
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+  - description: PB 5km 21:57; 10km 46:34
+    icon: running
+    icon_pack: fas
+    name: Running
   - description: 100%
     icon: chart-line
     icon_pack: fas
