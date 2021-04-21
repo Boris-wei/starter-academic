@@ -22,4 +22,6 @@ image:
 ![](截屏2021-04-21-下午4.18.31.png)
 
 论文上的指导非常简单，照着它的意思，直接在加载宏包区域再加一行代码
-$\int\sin\mathrm dx\sum=\frac{\partial}{\partial x}$
+$$
+\int\sin\mathrm dx\sum=\frac{\partial}{\partial x}
+$$
