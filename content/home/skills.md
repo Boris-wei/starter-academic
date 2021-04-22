@@ -3,7 +3,7 @@ widget: featurette
 widget_id: Skills
 headless: true
 weight: 30
-title: Skills & Hobbies
+title: Skills
 subtitle: null
 active: true
 feature:
