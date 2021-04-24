@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: running
 - description: 100%
-  icon: chart-line
+  icon: saxophone
   icon_pack: fas
   name: Statistics
 - description: 10%
