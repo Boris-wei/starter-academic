@@ -17,10 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: PB 5km 21:37 10km 46:48
-  icon: Running
+  icon: running
   icon_pack: fas
-  name: running
-- description: 
+  name: Running
+- description: 100%
   icon: weightlifting
   icon_pack: custom
   name: Body Building
