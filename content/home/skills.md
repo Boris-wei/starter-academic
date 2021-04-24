@@ -17,13 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: PB 5km 21:37 10km 46:48
-  icon: running
+  icon: Running
   icon_pack: fas
   name: running
-- description: 100%
-  icon: saxophone
-  icon_pack: fas
-  name: Statistics
+- description: 
+  icon: weightlifting
+  icon_pack: custom
+  name: Body Building
 - description: 10%
   icon: camera-retro
   icon_pack: fas
