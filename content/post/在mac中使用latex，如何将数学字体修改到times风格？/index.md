@@ -4,7 +4,7 @@ date: 2021-05-10T10:43:25.436Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
