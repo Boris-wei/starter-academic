@@ -28,4 +28,4 @@ image:
 
 即可。兴冲冲的去试，立刻报错，宏包找不到，于是就有了这篇文章。
 
-我的电脑是Mac，编译LaTeX的环境是Sublime Text+Skim，采用XeLaTeX。想要了解如何进行LaTeX在Mac上的基本配置，可以参考 https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/b1e3b029ded5
+我的电脑是Mac，编译LaTeX的环境是Sublime Text+Skim，采用XeLaTeX。想要了解如何进行LaTeX在Mac上的基本配置，可以参考[这个链接](https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/b1e3b029ded5)。
