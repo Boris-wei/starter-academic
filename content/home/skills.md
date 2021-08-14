@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Running
 - description: 100%
-  icon: dumbbell
+  icon: running
   icon_pack: fas
   name: Body Building
 - description: 10%
