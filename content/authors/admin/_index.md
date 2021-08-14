@@ -43,4 +43,4 @@ I was born in a family full of love in August, 2001. Since then I've always been
 
 I began to study in University of Science and Technology of China since 2019 as an undergraduate student majors in Physical Science. I wish I could apply what I've learned to my life and my career in the future.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/普通成绩单英文\_出国用\_魏博逸(PB19020591).pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/普通成绩单英文*出国用*魏博逸-pb19020591-.pdf" "newtab" >}}CV{{< /staticref >}}.
