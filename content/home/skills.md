@@ -21,8 +21,8 @@ feature:
   icon_pack: fas
   name: Running
 - description: 100%
-  icon: weightlifting
-  icon_pack: custom
+  icon: dumbbell
+  icon_pack: fas
   name: Body Building
 - description: 10%
   icon: camera-retro
