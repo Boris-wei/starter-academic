@@ -1,4 +1,5 @@
 ---
+title: Boyi Wei（魏博逸）
 role: An undergraduate student majors in physics.
 avatar_filename: avatar.jpg
 bio: My research interests include Microelectronics and Solid-State Electronics,
@@ -34,13 +35,12 @@ education:
     - course: Applied Physics
       institution: University of Science and Technology of China
       year: ""
+email: ""
 superuser: true
 highlight_name: false
-title: Boyi Wei（魏博逸）
-email: ""
 ---
 I was born in a family full of love in August, 2001. Since then I've always been fascinated by science and technology and wish I could devote myself to these areas.
 
 I began to study in University of Science and Technology of China since 2019 as an undergraduate student majors in Physical Science. I wish I could apply what I've learned to my life and my career in the future.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/普通成绩单英文\_出国用\_魏博逸(PB19020591).pdf" "newtab" >}}CV{{< /staticref >}}.
