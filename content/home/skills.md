@@ -20,14 +20,14 @@ feature:
   icon: running
   icon_pack: fas
   name: Running
-- description: 100%
+- description: 
   icon: dumbbell
   icon_pack: fas
   name: Body Building
-- description: 10%
-  icon: camera-retro
+- description: C++ LaTeX Python Matlab Mathematica
+  icon: code
   icon_pack: fas
-  name: Photography
+  name: Coding
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
