@@ -24,7 +24,7 @@ feature:
   icon: dumbbell
   icon_pack: fas
   name: Body Building
-- description: C++  LaTeX  Python  Matlab  Mathematica
+- description: C++/LaTeX/Python/Matlab/Mathematica
   icon: code
   icon_pack: fas
   name: Coding
