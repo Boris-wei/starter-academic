@@ -11,7 +11,7 @@ image:
 ---
 **34th IYPT (12th CUPT)**
 
-**Reference:** https://stemfellowship.org/iypt-2021-references/(invalid)
+**Reference:** 
 
 {< staticref "assets/34thproblems.pdf" "newtab" >}}Problems for 34th IYPT{{{< /staticref >}}
 
@@ -20,7 +20,5 @@ image:
 {< staticref "assets/cupt11.pdf" "newtab" >}}34th IYPT Problem 11. Guitar String Rep.{{{< /staticref >}}
 
 {< staticref "assets/cupt13.pdf" "newtab" >}}34th IYPT Problem 13. Sponge Rep.{{{< /staticref >}}
-
-
 
 **35th IYPT (13th CUPT)**
