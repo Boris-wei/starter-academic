@@ -21,4 +21,6 @@ image:
 
 {< staticref "assets/cupt13.pdf" "newtab" >}}34th IYPT Problem 13. Sponge Rep.{{{< /staticref >}}
 
+
+
 **35th IYPT (13th CUPT)**
