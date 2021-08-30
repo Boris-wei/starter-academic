@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Problems for 34 CUPT
+Problems for 34th CUPT
