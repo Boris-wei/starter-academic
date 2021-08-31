@@ -11,14 +11,14 @@ image:
 ---
 **34th IYPT (12th CUPT)**
 
-34th IYPT{{< staticref "assets/34thproblems.pdf" "newtab" >}}Problems{{< /staticref >}}
+34th IYPT{{< staticref "assets/34thproblems.pdf" "newtab" >}} Problems{{< /staticref >}}
 
 34th IYPT{{< staticref "assets/cupt07.pdf" "newtab" >}} Problem 7. Bead Dynamics Rep.{{< /staticref >}}
 
-34th IYPT {{< staticref "assets/cupt11.pdf" "newtab" >}}Problem 11. Guitar String Rep.{{< /staticref >}}
+34th IYPT {{< staticref "assets/cupt11.pdf" "newtab" >}} Problem 11. Guitar String Rep.{{< /staticref >}}
 
-34th IYPT {{< staticref "assets/cupt13.pdf" "newtab" >}}Problem 13. Sponge Rep.{{< /staticref >}}
+34th IYPT {{< staticref "assets/cupt13.pdf" "newtab" >}} Problem 13. Sponge Rep.{{< /staticref >}}
 
 **35th IYPT (13th CUPT)**
 
-35th IYPT{{< staticref "assets/35thproblems.pdf" "newtab" >}}Problems{{< /staticref >}}
+35th IYPT{{< staticref "assets/35thproblems.pdf" "newtab" >}} Problems{{< /staticref >}}
