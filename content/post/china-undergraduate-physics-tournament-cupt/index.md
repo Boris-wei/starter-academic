@@ -4,6 +4,8 @@ subtitle: Some reference about preparing for CUPT.
 date: 2021-08-30T15:22:12.813Z
 draft: false
 featured: false
+tags:
+  - CUPT/IYPT
 image:
   filename: featured
   focal_point: Smart
