@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I have been participating in CUPT for about 2 years. During this time I've got a lot of experience and skills about this tournament. Now I'd like to share my documents as reference for students who are willing to participate in this tournament. You can also ask me questions by [sending emails](mailto:wby0823@mail.ustc.edu.cn)
+I have been participating in CUPT for about 2 years. During this time I've got a lot of experience and skills about this tournament. Now I'd like to share my documents as reference for students who are willing to participate in this tournament. You can also ask me questions by [sending emails](mailto:wby0823@mail.ustc.edu.cn).
 
 **34th IYPT (12th CUPT)**
 
