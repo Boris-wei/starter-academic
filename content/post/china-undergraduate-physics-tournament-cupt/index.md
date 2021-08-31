@@ -15,7 +15,7 @@ image:
 
 {{< staticref "assets/34thproblems.pdf" "newtab" >}}Problems for 34th IYPT{{< /staticref >}}  
 
-{{< staticref "assets/cupt07.pdf" "newtab" >}}34th IYPT Problem 7. Bead Dynamics Rep.{{< /staticref >}}  
+Problem{{< staticref "assets/cupt07.pdf" "newtab" >}}34th IYPT Problem 7. Bead Dynamics Rep.{{< /staticref >}}  
 
 {{< staticref "assets/cupt11.pdf" "newtab" >}}34th IYPT Problem 11. Guitar String Rep.{{< /staticref >}}  
 
