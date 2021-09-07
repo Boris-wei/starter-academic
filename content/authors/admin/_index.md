@@ -6,7 +6,7 @@ bio: My research interests include Microelectronics and Solid-State Electronics,
   currently I am learning Convolutional Neural Network.
 interests:
   - Microelectronics and Solid-State Electronics
-  - Use FPGA to accelerate the graph neural network sampling
+  - Use FPGA to accelerate  graph neural network sampling
 social:
   - display:
       header: false
