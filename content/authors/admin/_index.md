@@ -4,9 +4,10 @@ role: An undergraduate student majors in physics.
 avatar_filename: avatar.jpg
 bio: My research interests include Microelectronics and Solid-State Electronics,
   currently I am learning Convolutional Neural Network.
-interests:
+interests, TOEFL and GRE:
   - Microelectronics and Solid-State Electronics
-  - Convolutional Neural Network
+  - Use FPGA to accelerate the graph neural network sampling
+  - TOEFL:100(S24)
 social:
   - display:
       header: false
