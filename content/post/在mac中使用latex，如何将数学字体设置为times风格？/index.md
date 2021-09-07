@@ -1,7 +1,7 @@
 ---
 title: How to make your math font looks like Times New Roman while using LaTeX on mac?
 subtitle: ""
-date: 2021-04-21T07:55:43.890Z
+date: 2021-09-07T12:39:29.901Z
 summary: ""
 draft: false
 featured: false
