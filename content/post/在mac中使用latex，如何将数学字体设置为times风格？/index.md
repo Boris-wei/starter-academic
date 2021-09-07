@@ -16,7 +16,7 @@ image:
   placement: 2
   preview_only: false
 ---
-In fact, I have never liked LaTeX's native math fonts very much, especially the way numbers are written makes me very uncomfortable, and I have always wanted to change to a different math font. I found a paper dedicated to all the free fonts in LaTeX called [A Survey of Free Math Fonts for TeX and LaTeX](http://www.nic.funet.fi/index/TeX/CTAN/info/Free_Math_Font_Survey/survey.pdf)So I found the font that I am most satisfied with so far. It has a times style. At the same time, I also like the way of writing the integral symbol and the sum symbol. The general effect is as follows:
+In fact, I have never liked LaTeX's native math fonts very much, especially the way numbers are written makes me very uncomfortable, and I have always wanted to change to a different math font. I found a paper dedicated to all the free fonts in LaTeX called [A Survey of Free Math Fonts for TeX and LaTeX](http://www.nic.funet.fi/index/TeX/CTAN/info/Free_Math_Font_Survey/survey.pdf). So I found the font that I am most satisfied with so far. It has a times style. At the same time, I also like the way of writing the integral symbol and the sum symbol. The general effect is as follows:
 
 ![](截屏2021-04-21-下午4.18.31.png)
 
