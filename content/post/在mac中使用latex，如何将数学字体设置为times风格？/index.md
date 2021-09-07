@@ -26,6 +26,6 @@ According to the paper, all you need to do is simply add
 \usepackage{mathtime}
 ```
 
-at the beginning。However, when I tried to do so,  the computer couldn't compile, saying that package cannot find. I tried for a long time and find out the reason in the end. Therefore, I want to write something just in case I forget it.
+at the beginning. However, when I tried to do so,  the computer couldn't compile, saying that package cannot find. I tried for a long time and find out the reason in the end. Therefore, I want to write something just in case I forget it.
 
 I use Macbook to write LaTeX, use Sublime Text as a code editor and use Skim as a pdf reader. If you want to know how to install and set LaTeX on mac, you can refer to [this](https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/b1e3b029ded5).
