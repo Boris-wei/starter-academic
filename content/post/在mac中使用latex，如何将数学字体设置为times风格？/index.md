@@ -16,18 +16,18 @@ image:
   placement: 2
   preview_only: false
 ---
-Actually, I never like the math font originally built on LaTeX. 
+Actually, I never like the math font originally built on LaTeX. I don't like the number in 
 
-实际上，我是一直不很喜欢LaTeX的原生数学字体的，特别是数字的写法让我非常难受，一直想换一种数学字体。后来找到了一篇论文，专门收集了LaTeX的所有免费字体，名叫[A Survey of Free Math Fonts for TeX and LaTeX](http://www.nic.funet.fi/index/TeX/CTAN/info/Free_Math_Font_Survey/survey.pdf)于是乎就找到了我至今为止最为满意的字体，有着times风格，同时积分号和求和号的写法我也大为喜欢，大体效果如下：
+In fact, I have never liked LaTeX's native math fonts very much, especially the way numbers are written makes me very uncomfortable, and I have always wanted to change to a different math font. I found a paper dedicated to all the free fonts in LaTeX called [A Survey of Free Math Fonts for TeX and LaTeX](http://www.nic.funet.fi/index/TeX/CTAN/info/Free_Math_Font_Survey/survey.pdf)So I found the font that I am most satisfied with so far. It has a times style. At the same time, I also like the way of writing the integral symbol and the sum symbol. The general effect is as follows:
 
 ![](截屏2021-04-21-下午4.18.31.png)
 
-论文上的指导非常简单，照着它的意思，直接在加载宏包区域再加一行代码
+According to the paper, all you need to do is simply add
 
 ```tex
 \usepackage{mathtime}
 ```
 
-即可。兴冲冲的去试，立刻报错，宏包找不到，于是就有了这篇文章。
+at the beginning。However, when I tried to do so,  the computer couldn't compile, saying that package cannot find. I tried for a long time and find out the reason in the end. Therefore, I want to write something just in case I forget it.
 
-我的电脑是Mac，编译LaTeX的环境是Sublime Text+Skim，采用XeLaTeX。想要了解如何进行LaTeX在Mac上的基本配置，可以参考[这个链接](https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/b1e3b029ded5)。
+I use Macbook to write LaTeX, use Sublime Text as a code editor and use Skim as a pdf reader. If you want to know how to install and set LaTeX on mac, you can refer to [this](https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/b1e3b029ded5).
