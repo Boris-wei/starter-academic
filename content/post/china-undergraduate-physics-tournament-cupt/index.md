@@ -40,3 +40,5 @@ CUPT{{< staticref "assets/中国科学技术大学 评论方模板.potx" "newtab
 **35th IYPT (13th CUPT)**
 
 35th IYPT{{< staticref "assets/35thproblems.pdf" "newtab" >}} Problems{{< /staticref >}}
+
+**Recommend reference site**: https://stemfellowship.org/iypt-references/
