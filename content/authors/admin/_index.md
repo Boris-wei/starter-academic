@@ -43,4 +43,4 @@ I was born in a family full of love in August, 2001. Since then I've always been
 
 I began to study in University of Science and Technology of China since 2019 as an undergraduate student majors in Physical Science. I wish I could apply what I've learned to my life and my career in the future.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/CV,Boyi_Wei.pdf" "newtab" >}}CV{{< /staticref >}}.
